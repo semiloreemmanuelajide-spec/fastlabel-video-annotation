@@ -12,10 +12,13 @@ Behavioral Analysis: Specifically monitored high-risk zones, such as escalators,
 Quality Assurance & Refinement: Transitioned to a QA role once the initial AI model was deployed. Reviewed the AI's automated video annotations, identified edge cases or false positives/negatives, and applied manual corrections to continually improve the model's accuracy.
 
 
-here is an image whereby i completed the work assigned to me:
+Here is an image of when i was working and making corrections:
 <img width="1270" height="725" alt="Screenshot 2026-09-06 204412" src="https://github.com/user-attachments/assets/0ccb3d9a-039e-4b8f-a80f-e96e318a5bd1" />
 
+<img width="1383" height="838" alt="Screenshot 2026-09-07 163026" src="https://github.com/user-attachments/assets/ab20d2e2-ad5f-4f03-a1ab-e74aec01b645" />
 
-Here is an image of when i was working and making corrections :
+
+Here is an image whereby i completed the work assigned to me:
 <img width="1900" height="902" alt="Screenshot 2026-09-15 121220" src="https://github.com/user-attachments/assets/d235417f-973c-4e10-9d8f-ce8427e880f4" />
 
+<img width="1893" height="890" alt="Screenshot 2026-09-15 121240" src="https://github.com/user-attachments/assets/09335b28-5303-4efb-b6c4-beea5201f14a" />
