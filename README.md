@@ -10,3 +10,12 @@ Detailed Classification: Assigned comprehensive metadata to boxed subjects, accu
 Behavioral Analysis: Specifically monitored high-risk zones, such as escalators, to train the model on identifying potential safety hazards and unusual activities.
 
 Quality Assurance & Refinement: Transitioned to a QA role once the initial AI model was deployed. Reviewed the AI's automated video annotations, identified edge cases or false positives/negatives, and applied manual corrections to continually improve the model's accuracy.
+
+
+here is an image whereby i completed the work assigned to me:
+<img width="1270" height="725" alt="Screenshot 2026-09-06 204412" src="https://github.com/user-attachments/assets/0ccb3d9a-039e-4b8f-a80f-e96e318a5bd1" />
+
+
+Here is an image of when i was working and making corrections :
+<img width="1900" height="902" alt="Screenshot 2026-09-15 121220" src="https://github.com/user-attachments/assets/d235417f-973c-4e10-9d8f-ce8427e880f4" />
+
